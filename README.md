@@ -34,7 +34,7 @@ Welcome to WEBDEV - WEMAKIN, your ultimate destination for web development servi
 
 ## Contributors
 
-- [Your Name](https://github.com/wasiff125)
+- [WASIFF ALI SHAH](https://github.com/wasiff125)
 
 Feel free to contribute by enhancing existing features or adding new ones.
 
