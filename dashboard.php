@@ -7,7 +7,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
     // Validate the entered credentials
     $validUsername = "admin";
-    $validPassword = "wemakin";
+    $validPassword = "admin";
 
     if ($enteredUsername === $validUsername && $enteredPassword === $validPassword) {
         $_SESSION['username'] = $validUsername;
