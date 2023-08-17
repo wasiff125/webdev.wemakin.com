@@ -51,4 +51,4 @@ Feel free to contribute by enhancing existing features or adding new ones.
 
 This project is licensed under the [MIT License](LICENSE).
 
-For any questions or assistance, contact [support@wemakin.com](mailto:support@wemakin.com) or [wasifbaloch670@gmail.com](mailto:wasifbaloch670@gmail.com.com).
+For any questions or assistance, contact [support@wemakin.com](mailto:support@wemakin.com) or [wasifbaloch670@gmail.com](mailto:wasifbaloch670@gmail.com).
